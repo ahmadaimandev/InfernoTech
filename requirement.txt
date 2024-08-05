@@ -11,7 +11,12 @@ InfernoTech Landing Page
  3.2 left column (image, description)
  3.3 right column (text, description, button)
 4. Our Services
-5. Meet Our Team
+ 4.1 Title (center)
+5. Meet Our Team  
+ 5.1 Title (center)
+ 5.2 Team members
 6. Testimonial
+ 6.1 Title (center)
+ 6.2 Testimonial
 7. Contact Us
 8. Footer
