@@ -1,0 +1,16 @@
+:root {
+    /*Heading Font*/
+
+    /*Sub-heading Font*/
+
+    /*Theme-Color*/
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    scroll-behavior: smooth;
+}
